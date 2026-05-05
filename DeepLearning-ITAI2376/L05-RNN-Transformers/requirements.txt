@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+torch
+torchvision
+transformers
+datasets
+opencv-python
