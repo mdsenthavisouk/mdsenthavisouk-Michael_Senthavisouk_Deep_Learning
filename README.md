@@ -23,7 +23,7 @@ I am Michael Senthavisouk, and this portfolio highlights my project work from IT
 
 ### Assignments
 
-* [A05 Arrival NLP Analysis](./DeepLearning-ITAI2376/Assignments/A05-Arrival-NLP-Analysis/) - Produced a written NLP-focused analysis connecting language theory to model limitations.
+* [A04 Analyzing Arrival Through the Lens of NLP](./DeepLearning-ITAI2376/Assignments/A04 Analyzing Arrival Through the Lens of NLP/) - Produced a written NLP-focused analysis connecting language theory to model limitations.
 
 ## Contact
 
