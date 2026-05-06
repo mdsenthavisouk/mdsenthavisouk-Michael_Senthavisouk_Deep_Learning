@@ -24,7 +24,7 @@ This directory contains my curated coursework for **ITAI 2376 (Deep Learning)**,
 ## Assignments Included
 
 - **Assignments Index:** [Assignments/README.md](./Assignments/README.md)
-- **Current Submission Folder:** [A05-Arrival-NLP-Analysis](./Assignments/A05-Arrival-NLP-Analysis/)
+- **Current Submission Folder:** (Assignments/A04 Analyzing Arrival Through the Lens of NLP/)
 
 ## Skills Demonstrated
 
